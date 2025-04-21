@@ -1,0 +1,1 @@
+import os,time;os.system('clear');time.sleep(1);print('The Encode By Sajad-@f_g_d_6');time.sleep(4)
